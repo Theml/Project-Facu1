@@ -1,0 +1,17 @@
+.scrollable_container{
+    width: 100%;
+    display: flex;
+}
+
+.scrollable_body {
+    flex-grow: 1;
+    background-color: aliceblue;
+}
+
+.scrollable_move{
+    cursor: pointer;
+    width: 25px;
+    height: 25px;
+    background-color: red;
+    position: relative;
+}

@@ -1,0 +1,18 @@
+.mail_body {
+    background-color: antiquewhite;
+    margin: auto;
+    padding: 5px;
+    text-align: center;
+}
+
+.mail_body > form {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    align-items: center;
+}
+
+form > button {
+    display: flex;
+    margin: 5px;
+}

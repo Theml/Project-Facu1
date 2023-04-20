@@ -1,0 +1,16 @@
+.contador_container{
+    border-radius: 6px;
+    border: 2px solid aqua;
+    width: 60px;
+    display: flex;
+}
+
+.contador_container > h1{
+    flex-grow: 1;
+}
+
+.contador_body {
+    flex-direction: column;
+    display: flex;
+}
+

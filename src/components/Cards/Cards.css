@@ -1,0 +1,14 @@
+.cards_container{
+
+    height: 67.5vh;
+    width: 97vw;
+    margin: 0 auto;
+    border: 2px double #000;
+    background-color: aquamarine;
+    box-shadow: 5px 5px 5px rgb(22, 96, 99);
+    display: flex;
+    flex-wrap: wrap;
+    -ms-flex-align: start;
+
+}
+

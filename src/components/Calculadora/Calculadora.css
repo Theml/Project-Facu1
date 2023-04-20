@@ -1,0 +1,6 @@
+.Calculadora_container {
+    display: grid;
+
+    grid-auto-columns: 25%;
+    grid-row: 1;
+}

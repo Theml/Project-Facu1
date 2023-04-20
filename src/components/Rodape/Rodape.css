@@ -1,0 +1,29 @@
+.rodape_container {
+    bottom: 0;
+    position: fixed;
+    width: 98.5%;
+    height: 50px;
+    border-radius: 6px;
+    background-color: rgb(59, 59, 63);
+    margin: 10px;
+    box-shadow: 5px 5px 4px rgb(22, 96, 99);
+}
+
+.rodape_body {
+    font-size: 14px;
+    margin: auto;
+    padding: 12px;
+    text-align: initial;
+    color: #ffffff;
+    display: flex;
+}
+
+.rodape_body > span {
+    flex-grow: 1;
+}
+
+.rodape_body > a {
+    margin: 5px;
+    background-color: aliceblue;
+    border-radius: 6px;
+}

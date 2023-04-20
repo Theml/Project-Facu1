@@ -1,0 +1,24 @@
+.Container{
+    height: 150px;
+    margin: 15px ;
+    box-shadow: 5px 5px 4px rgb(22, 96, 99) ;
+    background-color: cyan;
+}
+
+.mensagemTitulo{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(235, 193, 104);
+    padding: 10px;
+    margin: 10px;
+}
+
+.mensagemTitulo:hover{
+    background-color: rgb(51, 128, 128);
+}
+
+.mensagemSub {
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}

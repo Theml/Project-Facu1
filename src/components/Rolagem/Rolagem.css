@@ -1,0 +1,22 @@
+.Rolagem_container{
+    display: flex;
+    width: 100%;
+}
+
+.Rolagem_container > div{
+    flex-grow: 1;
+    background-color: rgba(87, 143, 87, 0.658);
+}
+
+.Rolagem_container > button{
+    width: 25px;
+    height: 25px;
+}
+
+.Rolagem_content{
+    height: 25px;
+    width: 25px;
+    background-color: red;
+    position: relative;
+    
+}
